@@ -1,0 +1,12 @@
+# plugin.yml
+name: Debugger
+version: 1.0.0
+main: tech.ccat.debugger.DebugPlugin
+api-version: 1.20
+depend: [KStats]
+commands:
+  ksdebug:
+    description: 调试玩家属性
+    usage: /ksdebug <属性> <值>
+    permission: kstats.debug
+    permission-message: §c需要权限 kstats.debug 来使用此命令
