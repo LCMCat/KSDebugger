@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbd3d717-7662-40dd-ba0c-56cea962dd74" name="更改" comment="" />
+    <list default="true" id="cbd3d717-7662-40dd-ba0c-56cea962dd74" name="更改" comment="initial pull">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/debugger.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/debugger.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/tech/ccat/debugger/DebugStatProvider.kt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -50,34 +60,50 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LCMCat&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LCMCat/KSDebugger.git&quot;,
+    &quot;accountId&quot;: &quot;7de72333-d1ff-43f2-a3df-ef3d2d8eb81c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2wlzNg7va4z8X5iwoOia6NnKaWY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.D:/Projects/Java/KStats [wrapper].executor": "Run",
-    "Gradle.KStats [jar].executor": "Run",
-    "Gradle.KStats [shadowJar].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "external.system.has.shared.sources": "true",
-    "jdk.selected.JDK": "zulu-21",
-    "last_opened_file_path": "D:/Projects/Java/CatTitanium/Debugger/src/main",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.D:/Projects/Java/KStats [wrapper].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.KStats [jar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.KStats [shadowJar].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JDK&quot;: &quot;zulu-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Java/CatTitanium/Debugger&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   },
-  "keyToStringList": {
-    "jdk.preference.JDK": [
-      "21=C:/Program Files/Zulu/zulu-21"
+  &quot;keyToStringList&quot;: {
+    &quot;jdk.preference.JDK&quot;: [
+      &quot;21=C:/Program Files/Zulu/zulu-21&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\Java\CatTitanium\Debugger\lib" />
@@ -86,6 +112,9 @@
       <recent name="D:\Projects\Java\CatTitanium\Debugger\src\main" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="tech.ccat.debugger" />
+    </key>
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
       <recent name="tech.ccat.debugger" />
     </key>
   </component>
@@ -161,6 +190,19 @@
       <option name="presentableId" value="Default" />
       <updated>1746630910302</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial pull">
+      <option name="closed" value="true" />
+      <created>1754575817960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754575817960</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial pull" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial pull" />
   </component>
 </project>
